@@ -1,0 +1,8 @@
+1. Mulai dari nama perusahaan e commerce lanjut ke login (one to one)
+2. di menu login ada relasi many to many antara admin dan customer karena beberapa admin bisa login dan beberapa customer juga bisa login
+3. setiap customer bisa melakukan beberapa transaksi (one to many)
+4. setiap transaksi customer bisa membeli beberapa item (onee to many)
+5. setiap item memiliki tag yg berbeda tergantung kehendak customer (one to many)
+6. admin bisa mengakses info dari item yg dijual (one to one)
+
+you can access ==> https://imgur.com/BSVcqi2
